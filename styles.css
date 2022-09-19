@@ -1,0 +1,29 @@
+@import url("https://fonts.googleapis.com/css2?family=Grandstander:wght@300&family=Inconsolata&family=Kalam&family=Pacifico&display=swap");
+
+.App {
+  font-family: sans-serif;
+  text-align: center;
+  font-family: "Grandstander", monospace;
+}
+
+html,
+body {
+  height: 100%;
+}
+
+html {
+  display: table;
+  margin: auto;
+}
+
+body {
+  display: table-cell;
+  vertical-align: middle;
+  background-color: #f2f3f4;
+}
+
+input {
+  padding: 0.5rem;
+  width: 30%;
+  text-align: center;
+}
